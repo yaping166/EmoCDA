@@ -7,7 +7,6 @@ torch 2.7.0
 transformers 4.57.3
 datasets 4.4.1
 numpy 1.26.4
-scikit-learn 1.4.1.post1
 ```
 
 Install the dependencies with:
