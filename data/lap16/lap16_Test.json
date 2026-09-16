@@ -1,0 +1,6872 @@
+[
+  {
+    "text": "Well, my first apple computer and I am impressed.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Works well, fast and no reboots.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Glad I did so far.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "s.... L .... o..... w....  rea......llllyy  slow.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "like seriously  - really slow.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "impossible to use.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "cant even read properly.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "plus - no russian input ??  wtf",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "What a great laptop, I can run my games and work really fast.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Really light you can carry with you everywhere.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#PORTABILITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Great battery life.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Everything at a very great price.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I completely recommend it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Excellent value and a must buy for someone looking for a Macbook.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "You can't get any better than this price and it come with an internal disk drive.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Plus you get 500GB which is also a great feature.",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Also, the resale value on this will keep.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I highly recommend you get one before they are gone.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Got this on black friday with a very good discount and couldn't be happier.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The screen is great, I don't see the need for a retina display.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I also really like the addition of the SD Card slot.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This Macbook Pro is AMAZING!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "If you are afraid of it not having a disc player please don't be.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I love the new high retina display, and because this computer lacks a disc player it makes it significantly lighter.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Overall, this is a fast, light, practical computer and I highly recommend it.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I bought my Macbook Pro in October of 2012 and 2 years later it still works as flawless as ever!",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I've never had any problems with the computer itself (The Macbook charger chords are another story, though).",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "POWER_SUPPLY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I tried not to jump on the Apple bandwagon, but... you're just living in denial if you don't.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Happy buying!",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Bought this laptop from best buy in January 2015.. still loving it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I can use it as a tablet,as a laptop, as whatever I want to!",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I play Sims 4 and 3 on it all the time, with very little issues.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The thing wakes up super fast and is always ready to go.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Music/videos sound great and look great.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I use it everyday.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "My favorite computer I've ever had!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This computer overall is great!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "it runs fast!",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "ships fast!",
+    "labels": [
+      {
+        "category": "SHIPPING#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "etc. but the company and seller lied to you and try to make an extra buck!",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "I bought this pc to play games and stream movies! it could handle all of that but my friend wanted me to put some music on a cd!",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I could see the disk drive on the side but it didn't seem to have a button on it?",
+    "labels": [
+      {
+        "category": "OPTICAL_DRIVES#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "A DISK DRIVE WITH BUTTONS ON IT!!!!!!",
+    "labels": [
+      {
+        "category": "OPTICAL_DRIVES#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "And he said&quot; this computer does not have a disk drive and I was furious!",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "So beware buyer, this computer has a useless piece of plastic on it.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Thank you asus.(they don't deserve to be capitalized)",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Great computer.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Very great Apple product as expected.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Good battery life.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Great color on screen.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Good speakers from laptop computer.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "My new laptop is great.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "It has so much more speed and the screen is very sharp.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I have to admit that the operating system is different and does take time to learn but I like it.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I would recommend it to anyone.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This laptop is fine for those applications and basic websurfing.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The speakers are fairly basic, so this is probably not the computer to buy if your main aim is streaming music or watching movies.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#GENERAL",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The touchpad is a little &quot;clunky&quot; for my taste; I use a small external mouse with laptops  in any event.",
+    "labels": [
+      {
+        "category": "MOUSE#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I appreciate the relatively large keyboard (with number pad) and screen size.",
+    "labels": [
+      {
+        "category": "KEYBOARD#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I also found the track pad irritating until I disabled &quot;pinch zoom.&quot;",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This is larger laptop, but is not too heavy.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Battery life is great - though it is new.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Overall, a solid laptop for its price.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "neutral",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "However, a few things are immediately occurring to me  I had read the other reviews here on amazon, but decided the specs and appearance looked good enough to go ahead.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Well, my first impressions are that its OK, it certainly boots up quickly (thanks SSD!), and from the limited use so far (no games) its fast enough in normal usage.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "HARD_DISC#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It certainly looks nice, but that nice dark blue top is a fingerprint magnet as others have pointed out.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Also I have found the touch pad to be awkward to use (could be I am pressing too hard perhaps), and the screen is    well   underwhelming.",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "DISPLAY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "To be honest I am a little disappointed and considering returning it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This is a horrible laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "Within a day of usage, it already slowed down significantly, virus entered the system right away.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It's heavy.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I regretted immediately.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "regretful"
+      }
+    ]
+  },
+  {
+    "text": "Nothing like the description says.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "My Apple mac book pro has crashed three times, since I purchased it.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Each time, Apple can only uninstall to original factory settings for me to start over.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I believe this MacBook Pro was a lemon right out the gate.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": ":(",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This computer is like...  I'm lost for words.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This is the best switch I have ever done.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This has much more memory and ram memory.",
+    "labels": [
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Even the battery life is like WOW!",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I love, LOVE, LOOOOVE!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I can say that I am fully satisfied with the performance that the computer has supplied.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It contains a long battery life, incredible specs, and an overall enjoyable performance.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Upgrading from a toshiba laptop, I am fully impressed with all of the benefits that the mac operating system provides.",
+    "labels": [
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The snappy processor allows for me to quickly upload photos and videos, as well as create movies for me and my colleagues to enjoy.",
+    "labels": [
+      {
+        "category": "CPU#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "In upgrading to this computer I can say I have found little to any flaws in the product, hence the 5 star review.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Love this computer.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It has done everything and more that I expected.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I am sure it will be able to do all I need it to do in the future as well.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The screen looks great in my opinion the sound is nice.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MULTIMEDIA_DEVICES#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "So far I have no complaints and dont expect many complaints in the future.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This did give some set trouble and i had to call tech support.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "They were great.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "its been easy breezy since then.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "how could you not love a Mac",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "so far so good, i have not encountered any issues with this computer.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "love the flip feature and the touch screen feature.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "for the price that i paid i feel that i got good value.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "this lap top is not the lightest you can purchase, so if that is important to you maybe you should shop some more.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "To a prospective buyer,  08/10/2012  Once you go Mac, you'll never go back.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Was the best decision we ever made.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It runs just as fast as the day we got it with no problems!",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "We don't have to de-frag, deliete cookies, run security programs, or any of the common PC problems that have to be delt with in order to keep you running and up to speed.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "You can't get a virus on Mac, so in the long run the cost of the Mac is saved by not buying security, and not having to replace your computer every year or two.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Never had any issues, no frustrations just great easy wireless, all in one fun!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It's great.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "because it is a touch screen you don't even need a mouse.",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "You will probably never use it in tablet mode but it's nice to know you have that option.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "If you draw on the other hand i'm sure you will love using this in tablet mode.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Lastly, because it can flip 360 you can comfortably lay down in bed and have the keyboard facing down as you watch a show closer without having to adjust your sitting position for the keyboard.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This computer is great.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I have a 250 GB SSD and 10 GB of RAM in it, which I installed myself.",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "It runs faster than it did when I got it.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I enjoy the simplicity and user-friendly interface of Yosemite.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I'm excited for El Capitan.",
+    "labels": [
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "positive",
+        "emotion": "excited"
+      }
+    ]
+  },
+  {
+    "text": "The apps are very easy to use.",
+    "labels": [
+      {
+        "category": "SOFTWARE#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The resolution is excellent.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I am very satisfied with EVERYTHING about this machine.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Like so many others who do this there is a learning curve and I'm excited to do it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "neutral",
+        "emotion": "excited"
+      }
+    ]
+  },
+  {
+    "text": "This MBP is clean, neat, and simple.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I like that.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It takes less time to power up, and if you just close the case it go into sleep mode.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "WHen you open it wakes up almost immediately.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Very nice.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I am pleased with my decision, however I have only had this for a few weeks.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "There are a few things I am dissappointed with though.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "depressed"
+      }
+    ]
+  },
+  {
+    "text": "Only 2 USB ports.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "No HDMI port.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The headphones jack is a combo jack for the headphones and microphone.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Not a big deal for me, but if you Skype a lot or are gaming a regular headphone set with a separate jack for the headphone sound and microphone input will not work on a Mac.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "As a student majoring computer science, I really fell in love with this laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It's 15.6 inches, which for me is not too big nor too small.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "It has the latest i7 CPU with a GTX 950M for GPU, which makes this laptop blazing fast (boots up in under 5 seconds, with the help of the SSD of course).",
+    "labels": [
+      {
+        "category": "CPU#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "GRAPHICS#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "excited"
+      },
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "- It has 256GB SSD which is just enough for my OS, games, documents, and anything in between.",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It also has an extra bay for an extra HDD if you wish to add one.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "- It's not touchscreen!",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "- Its keyboard is nicely arranged, silent, and back-lit which is nice, but what I don't like about it is the material attracts oil from your fingers.",
+    "labels": [
+      {
+        "category": "KEYBOARD#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I have to clean it regularly for it to stay looking good.",
+    "labels": [
+      {
+        "category": "KEYBOARD#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "- This laptop is so silent, its fans only kick in when the laptop is under heavy load, thanks to the 5th generation Intel core which draws less power,  thus less heat.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "FANS_COOLING#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "CPU#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "- It can run games really well.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Well, not really well.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "MOBAs like Dota 2 and SMITE can be run on max quality settings with 60 fps or more.",
+    "labels": [
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "neutral",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Medium settings on titles like Tomb Raider for it to be acceptable (60 fps is the minimum acceptable fps #pcmasterrace).",
+    "labels": [
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "- It's lightweight and easy to carry around.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#PORTABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "- The screen is a matte 1080p display, which is nice, but with poor viewing angle.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I find myself adjusting it regularly.",
+    "labels": [
+      {
+        "category": "DISPLAY#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "- It looks sleek and gorgeous.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Blends in with any accessory you use with it.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "All in all I am very happy with this purchase.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "And with this price, I don't think you can buy anything better.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "All I can say is I am impressed.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Very quick to get it up and running with a minimum setup time right after you open the box.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It's worth it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Pay me now, Pay me later.........I am happy with my choice going with this laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I was disappointed.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "depressed"
+      }
+    ]
+  },
+  {
+    "text": "It seemed like a great computer and a great deal.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The first one arrived and it did not work.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The space bar sticks.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I find it hard to navigate from screen to screen.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "For a non-computer savvy person, it was very disappointing.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "depressed"
+      }
+    ]
+  },
+  {
+    "text": "I like the 13 inch macbooks.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Its size is ideal and the weight is acceptable.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The new Mac OS Mountain Lion has some nice features as wel as the trackpad.",
+    "labels": [
+      {
+        "category": "OS#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MOUSE#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I didn't think i would need an optical drive but since i have had it I used it several times.",
+    "labels": [
+      {
+        "category": "OPTICAL_DRIVES#GENERAL",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "The magnetic lid and charger is cool and battery indicator on the side is cool.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "POWER_SUPPLY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The mac is light and so compact I thought I would regret not buying a retina display, not in the least The mac pro works just fine.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The OS is easy, and offers all kinds of surprises.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "OS#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "excited"
+      }
+    ]
+  },
+  {
+    "text": "I've been using Apple's since 1992 and this is the fastest and best one I've  had.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This Mac allows all of that.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This is very fast, high performance computer.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This should be more than  enough computer for almost everyone.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I would not hesitate recommending  this to anyone.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It fast and easy to set up.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I had cloned my data from my old computer using  Carbon Copy Cloner (CCC) and simply moved everything to the new computer  and was off and running at speeds I had only dreamed up before.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The Mac book pro is a computer for the disorganized, lazy, and eye candy person in all of us.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The MacBook pro already understands how to jump through hoops and acts more like a friendly guide.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "If you want to use the Internet, then you can make your icons jump out from the bottom of the screen, like a magnifying glass is projecting onto the selected icon.",
+    "labels": [
+      {
+        "category": "SOFTWARE#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This computer is amazing for the individual who does not want to do any extra work via their understanding of their laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I would've given 5 stars, had it not been for the hours of updates I've had to do to this upon arrival.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Other than that, I love it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It's portable, reliable, and great for what I use it for.",
+    "labels": [
+      {
+        "category": "LAPTOP#PORTABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Positives:  - No matter what position, this laptop will stay in it.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It's very sturdy.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "- Quick boot-up, and runs efficiently.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "- Touchscreen is great.",
+    "labels": [
+      {
+        "category": "DISPLAY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Negatives:  - As aforementioned, my only con was the updates.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Everything you'd expect from a Mac.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It looks and feels solid, with a flawless finish.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The screen definition is superb and it fires up super quick and same to close down.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Only had it a few weeks but doesn't leave my side.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This machine is flawless, fast, and classy.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Out of all the laptops I have owned, this is by far the best!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I'm not sure if it was covered in the description, but it does have a backlit keyboard and I'm getting about an 8 hour battery life on one charge (Except I don't use this for games or videos, which obviously would drain the battery faster).",
+    "labels": [
+      {
+        "category": "KEYBOARD#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It wakes in less than a second when I open the lid.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The screen has an extremely high resolution that I'm very pleased with.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Even though MacBooks are expensive, you will see that they are well worth the money.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "You will not regret buying this computer!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "My daughter's MacBook Air battery bulged deforming the keyboard several days ago.",
+    "labels": [
+      {
+        "category": "BATTERY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It took 3 days to make an appointment at the local Apple store.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I'm not sure what happened next but she came back home crying with a piece of paper in her hand $129 for a new battery, $39 to replace it and $139 for a new keyboard.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "SUPPORT#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I could not believe they did not consider the battery as defective so I went to the Apple store myself and asked for a manager.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "He explained to me the battery expansion is 'normal'.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Apple doesn't cover battery expansion under any circumstances not even under their Apple Care.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The battery is simply considered 'consumable' and NOT covered.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I asked the manager if he feels comfortable with me posting the picture of the MacBook Air on the internet with the description that Apple doesn't consider the product defective.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "His reply astonished me, looking down at me behind his thick glasses he said: 'Make sure you have your facts straight before you smear!",
+    "labels": [
+      {
+        "sentiment": "negative",
+        "category": "SUPPORT#QUALITY",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "He didn't specify who are 'they' but from the tone of his voice and his 6'5' posture it indicated something between the SWAT team and a bunch of LAWYERS.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Here is my take on all of this, the business model Apple pushes right now is to get some cheap junk from China, hire a bunch of cheerleaders straight out of high school, call them geniuses, and bully everybody who complains about their product.",
+    "labels": [
+      {
+        "sentiment": "negative",
+        "category": "COMPANY#GENERAL",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "Steve Jobs is dead, so is Apple.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "No more Apple devices in my household.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Please Google 'MacBook battery bulge explode' before you buy your next Apple toy.",
+    "labels": [
+      {
+        "category": "BATTERY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I've been spoiled by the build quality and stability of Macintosh and even this used computer is a gem.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I can bat around all the things that everyone else says, but it's been what we've been using for decades and I have nothing bad to say.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It churns out HD content, runs without many flaws and I've yet to get a virus on a Mac since I started using the platform in the early 1990's.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "My 15&amp;#34; MacBook's motherboard fried but I think that was a sugar spill that I never bothered cleaning up.",
+    "labels": [
+      {
+        "category": "MOTHERBOARD#QUALITY",
+        "sentiment": "neutral",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "That's the only issue I've ever had since working on Macs in 1995.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "That's a pretty impressive track record don't you think?",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "However, the HP Envy has definitely met all of my expectations and more.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I have been thoroughly impressed with my purchase thus far and do not regret purchasing it at all.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "While the price may seem high, it is worth every penny with its many perks.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The Pros:  A Ton of Storage Space- This laptop comes with 8GB of memory and a 1 TB (1000GB) hard drive.",
+    "labels": [
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "That is plenty of space for your laptop, which really comes in handy for college students and computer gamers.",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "2-in-1 Capability- The ease of switching this laptop into a tablet is a huge plus.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "If you are looking to get a 2-in-1 laptop, this is the laptop you should consider.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I love the flexibility of being able to fold it over like a tent and watch movies, without having the keyboard in the way of things.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I find it much easier to type on and much more durable.",
+    "labels": [
+      {
+        "category": "KEYBOARD#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Battery Life- My battery life is really good with this laptop and I have had no problems with it thus far.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I can usually go about 10 hours before I get down to 10% battery life.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The Cons:  No Disc Drive- Call me old fashioned, but I still enjoy listening to physical CDs and uploading them to iTunes.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "However, I can no longer do this because this laptop does not contain a disc drive.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Overall, I definitely would recommend this product to any college student that is in the market for a new laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The touchscreen and 2-in-1 capability is a huge bonus and it is really easy to carry around to your classes.",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#PORTABILITY",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "It also is nice to be able to play Candy Crush or Angry Birds when in between classes straight from your laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It makes it much more exciting to play!",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "exc"
+      }
+    ]
+  },
+  {
+    "text": "I'm actually writing this review on my new MacBook and I love it!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "The computer it self is amazing.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It is an older model, so know that upfront, but it is everything I was looking for.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "From the moment I received this MacBook it was like a dream come true.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I know once I upgrade the ram to 8GB it will pick up a lot.",
+    "labels": [
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Also, if after reading some reviews and doing some research I found out that this laptop is easily upgradable and easy to work on which is another big plus.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "So long story short, if you want an oldie but a goodie this is your laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I know people were complaining that it isn't the newest model, but it all depends on what you are looking for.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "I highly recommend!!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This computer is a fantastic tool for word processing, searching the internet, and keeping track of everyday life.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It's also incredibly light, has a battery that can last for days, and looks like a piece of art.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Though, that's pretty much what your paying for -- a well designed device.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "When you look at the internal specs, the computer is only worth about $500.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It has a 128 GB storage capacity (but with the option of a 256 GB hard drive) and a 1.6GHz dual-core Intel Core i5, so don't expect to be gaming on this computer and make sure you pick up an external hard drive too.",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "CPU#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "If your looking to be a trendy hipster who can't live without a Mac, it's a great buy.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It mixes a great balance between the spec that are needed and what you don't need.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Pros :  1. Nice Looks.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "2. Keyboard is great",
+    "labels": [
+      {
+        "category": "KEYBOARD#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I wanted a simple Full HD display and this one does its job",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "4. Sound is great",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "5. And this has a extra slot for HDD",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "6. No CD drive.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Cons:  1. Web cam.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "VGA really ASUS??",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "You don't want to show this to anyone :).",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Anyway I don't use webcam much so , I don't care",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "2. Viewing angles are not great.",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "3. Remember its a dual core.",
+    "labels": [
+      {
+        "category": "CPU#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "4. The fan kicks in even its not too hot.",
+    "labels": [
+      {
+        "category": "FANS_COOLING#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "5. I found the track pad not great.",
+    "labels": [
+      {
+        "category": "MOUSE#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I use my mouse so not a problem for me.",
+    "labels": [
+      {
+        "category": "MOUSE#GENERAL",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Over all very good system and worth it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This was the ONLY tablet-style computer so far which met my requirements.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I was seduced by this computer, so I took it home.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The wireless keyboard (not bluetooth, but RF) did not pair up with the device.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It still did not pair.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I even ran it as Administrator -- still no effect.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I used the Ctrl-Esc keys while turning on, and still nothing.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It flickers briefly to green before the light goes out.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I still can't pair it.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I don't want to carry around a bluetooth keyboard for a computer whose keyboard is nonfunctional.",
+    "labels": [
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Sony can eat the cost from the seller on this one while I get my money back for a DEFECTIVE product.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "But Sony doesn't seem to have addressed it.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "My first Mac computer and as many before me I just fall in love with it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Changed the memory from 4 GB to 8 GB Corsair Vengeance and 500 GB HDD (5400 rpm) with Seagate hybride 750 GB HDD+SSD.",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Machine is flying and with parallels desktop 8 I have my old PC notebook completely functional on my MBP.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "excited"
+      },
+      {
+        "category": "SOFTWARE#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Way to go and enjoy both worlds.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This ASUS you're looking at right here, and that I'm typing on right now, has one.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "-  With that being said, for the price ($800!), you get a nice fast laptop, but if you ask me, it's missing some things that I feel should be automatically included:",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This laptop has no:  - Touchscreen  - Optical Drives (OK, a bit of a stretch, because that would eat up precious space in this monster)  - Swivel or detachable screen",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "What this laptop does have is:  - Windows 8, which is confusing as all get-out  - Tons of &amp;#34;bloatware&amp;#34;.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "SOFTWARE#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This is really nice, but I HATE the awkward right mouse clicking.. sometimes it works, sometimes it doesn't.. may be the laptop, may be the laptop in conjunction with Windows 8? ",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "MOUSE#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Either way, highly annoying.",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I hooked up a USB mouse and all is well.",
+    "labels": [
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "All works beautifully but Windows 8 is taking a bit of getting used to.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Love the 360 degree rotation and the touch screen works great, but a little bit of a learning curve there too, as sometimes I have to tap a few times to get the exact location I need...",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "DISPLAY#USABILITY",
+        "sentiment": "neutral",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "overall it is just my learning a few things than any downfall with the laptop (the mouse was the only negative I could really see)...",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MOUSE#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This is a fantastic transformer!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I loved playing with it and the touchscreen was great for the windows 8 platform.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "DISPLAY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The only reason I returned it was because I bought it to use the touchscreen with photoshop and because of the program, it could not utilize the touchscreen within the work space except to zoom and rotate.",
+    "labels": [
+      {
+        "category": "SOFTWARE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "DISPLAY#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I would have kept it but that was the sole reason for my purchase.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It's a great product and would recommend to anyone looking for a transformer or large touchscreen.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I'm looking forward to needing a laptop update so I can purchase this computer again.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I've only had this for a week Overall I like the computer, it's thin &amp; light and The wireless keyboard works great.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I was impressed; Sony puts in small touches like a USB charging port on the charger.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "One thing I did't like is the stylus holder, it's cheap plastic and doesn't seem to be well thought out because it gets installed on the cover for the USB port.",
+    "labels": [
+      {
+        "category": "HARDWARE#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I do't use it, I think I would accidently break it and loose my stylus.",
+    "labels": [
+      {
+        "category": "HARDWARE#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The other Issue I had was the amount of time it takes to update the operating system and all the software when you get it.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Awesome laptop for college!!!",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "excited"
+      }
+    ]
+  },
+  {
+    "text": "Can be used for gaming as well.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It's light, fast and has great battery!!",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It's a steal when considering the specs and performance as well.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The processor and GPU are fantastic at running games and multiple apps.",
+    "labels": [
+      {
+        "category": "CPU#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "GRAPHICS#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I can run most games to a good quality without seeing any lack of speed.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The backlit keyboard is a nice touch especially.",
+    "labels": [
+      {
+        "category": "KEYBOARD#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Make sure to only handle this computer with clean hands because the front cover can get oily pretty fast.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I'm overall very pleased with my new laptop!!!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The only downside are the speakers.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "They don't go very loud at all.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The quality of the sound is nice but the lack of volume really kills it for me.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MULTIMEDIA_DEVICES#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This is mostly not an issue since I mainly use earbuds anyways however it could be annoying at times.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The screen looked fine to me and wasn't an issue like others have been saying.",
+    "labels": [
+      {
+        "category": "DISPLAY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Overall great for me!!!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This laptop has delivered.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I immediately did the Windows 10 upgrade and haven't had any issues.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The wireless adapter is strong and the SSD is fast.",
+    "labels": [
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "HARD_DISC#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This thing boots in just a few seconds which is nice.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Others have mentioned issues with viewing angle on the screen, but I never use the laptop where I'm not looking straight at it so it doesn't bother me.",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "I'm very pleased with the purchase.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Boot time is super fast, around anywhere from 35 seconds to 1 minute.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Apps launch super fast, and the 500GB HDD is more than sufficient.",
+    "labels": [
+      {
+        "category": "SOFTWARE#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I usually use my Mac for school work and internet browsing, so the entry-level 13' MacBook Pro is already more than what I expected from a computer I would typically use it for.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Macs hardly ever get viruses, and they are completely incompatible with existing Microsoft Windows Viruses.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore, Mac OS X Mountain Lion's Gate keeper prevents the user from downloading malware and trojans, which keep your data safe and your computer running at optimum speed.",
+    "labels": [
+      {
+        "category": "OS#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The keys on the keyboard are evenly spaced and are back-lit, which make it easy to use at night and for speed writing (Typing?).",
+    "labels": [
+      {
+        "category": "KEYBOARD#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Overall, the screen resolution, though non-retina, is sufficient for normal web browsing and work.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The thunderbolt port is awesome!",
+    "labels": [
+      {
+        "category": "PORTS#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "US 3.0 comes with the MBP and has transfer rates of up to 5gbps.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "PORTS#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "SDHC card reader and an optical drive for burning and reading discs.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "The glass track pad is large enough for Apple's highly acclaimed multi-touch gestures for scrolling through web pages with two fingers, zooming in on certain parts of certain apps by double tapping with two fingers, accessing launchpad by pinching with five fingers and using mission control by swiping up with four fingers.",
+    "labels": [
+      {
+        "category": "MOUSE#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "For Windows users switching to a Mac, you can also enable right clicking (known to apple as secondary click) in the system preferences&gt; Mouse and enabling right clicking.",
+    "labels": [
+      {
+        "category": "MOUSE#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The unique to apple aluminium uni-body is a real beauty.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It makes the MBP very durable and protects it from scratches, though you shouldn't go launching it against a wall for the sake of trying it.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The Mac app store and iTunes store are phenomenal.",
+    "labels": [
+      {
+        "category": "SOFTWARE#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The Mac app store is your one-stop shop for Mac software, though you can also download software online at your own risk.",
+    "labels": [
+      {
+        "category": "SOFTWARE#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "There are currently around 10,000 apps on the App store (and counting...), and billions of songs available for download fro the iTunes store.",
+    "labels": [
+      {
+        "category": "SOFTWARE#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "iTunes is one of the better media players available on the market with it's simple to use User Interface.",
+    "labels": [
+      {
+        "category": "SOFTWARE#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "SOFTWARE#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I'm sure you won't regret making this purchase.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "One of the worst pieces of electronics I have ever bought.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "Very pour performance.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It takes for ever to wake it up.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Sometimes It stops receiving wifi signal, so I have to restart it.",
+    "labels": [
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It is very slow and not responsive.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Would not recommend.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Glare is also pretty frustrating.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "There is definitely more to say...",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "disappointed"
+      }
+    ]
+  },
+  {
+    "text": "I tested it, it worked great.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "He received it, and one day later it DIES.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The laptop refuses to start, we have troubleshooted all areas, still fails to start.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Cannot even get to bios.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Just a click and a BLACK SCREEN.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Of course, it DIES 3 days past the return window.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "We got two days of operation from this laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "When the MacBook Pro arrived, I helped her transfer all of her schoolwork from the PC to the Mac... an easy drag-and-drop process utilizing a flash drive.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It was delivered with 4GB of RAM -- 2GB on each of two sticks -- which was probably adequate.",
+    "labels": [
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "So I simply pulled one 2GB stick from the machine and installed the 8GB stick in its place.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The machine now has 10 gigs of RAM and it works just fine.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "But, hey, it's an Apple.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I wouldn't expect anything less!",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "If it was possible to give them 0 start, I would have done it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "My Laptop's one of the Key from keyboard came out and it was mechanical failure.",
+    "labels": [
+      {
+        "category": "KEYBOARD#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "My laptop was under coverage but when I gave it to them for repairs, they quoted me $755 for it.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "SUPPORT#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "this company just wants customers' money in their pocket.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "they dont care how you feel when they charge you hundreds of hard earned dollars.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "I wish this company to go bust.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "I will never ever buy any apple product in my life.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "Overall I love it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "First, when I move the screen to put it in tablet position, the hinge doesn't seem totally solid.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I feel like I need to be really gentle with it, but maybe that's just me.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Also, and this maybe is another personal quirk, but the keyboard sits a little far back for my taste so my watch scrapes against the edge of the laptop.",
+    "labels": [
+      {
+        "category": "KEYBOARD#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "KEYBOARD#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "First off, AMAZING LAPTOP!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Three years ago I had purchased this bad boy and it still runs great!",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "If I were to have any technical difficulties, the local apple and contact line were able to help me asap, it was quite impressive.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I myself had purchased the 750 gig drive laptop and as a DJ with thousands of songs, pictures, and other things...and after 3 years I have managed to fill around 9% of my gigs.",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "There is SO MUCH ROOM!",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Pros  1. Amazing storage (both 500gig and 750gig)",
+    "labels": [
+      {
+        "category": "HARD_DISC#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "2. 8 gig ram needed if you are as productive as I am (DJ, photography, movie making, etc) its quick!",
+    "labels": [
+      {
+        "category": "MEMORY#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "3. No anti spyware needed, never had a virus and I never will",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "4. build solid and durable",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "5. bought the 3 year warranty and boy it was needed (because of my doings)",
+    "labels": [
+      {
+        "category": "WARRANTY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Cons.  1. If you fall behind in updates, your laptop will become progressively slower, just update it...then its back to normal",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "2. Sometimes when I stared mine up it would take a few extra minutes to boot on, other times it is a few seconds",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "3. Cannot manually take battery out, unless you work for apple or have the tools",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "BATTERY#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Overall, it is a fantastic laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Mine has been though hundreds of parties, weddings, quinces, anything involving performances, it can take it!",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This laptop was made for art, music, beat-making, pictures, movies, graphic design.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "By the way, it comes with apps and hardware that can already support what I had just listed.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This laptop will last you a half decade if not a full decade.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Soon I will be hitting the 5 year mark and I think this thing can make it another 5 in my opinion.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Get this now!!!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "By the way...I paid for this particular laptop roughly 2 grand...LOOK AT THE PRICE NOW!",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "This is a great laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I bought it for college and couldn't be happier.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The SSD and I7 complement each other really well.",
+    "labels": [
+      {
+        "category": "CPU#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "HARD_DISC#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I was pretty skeptical about upgrading to windows 10, but it is pretty awesome.",
+    "labels": [
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "If you are looking for a light, durable, and extremely effecient laptop, buy this one!",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "They really know what they are doing.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The laptop is so easy to work with.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Like it was designed for what people would want to the system to do, very user-friendly.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Its simplicity is one of the things that makes it so great, aside from its quality design and sexy looks.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "If you dont like windows I would suggest trying a Mac.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The investment is worth it.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Have bought several laptops in last several years and hands down this has been the best ever.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Mac User interface is just the best.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "Also, the laptop is quite, no more burnt laps, best screen display, and small additions like backlit keyboard wins your heart over.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Only thing I dislike is that everything for Mac is expensive but I guess you pay for quality!",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Not impressed with Macintosh products.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "In fact I am completely frustrated.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Also, many software programs are not compatible with the IOS platform.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Be sure the programs you need will work on a MAC before you buy one!",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I had heard people speak highly of the MacBook Pro for college students, and have not been disappointed through two and a half years of extensive use.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The MacBook Pro is useful for college students for many reasons:",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It is the cheapest product in the line of MacBook's",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The new operating system called Snow Leopard is installed and ready for use",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The battery life has increased from the last version from 4 hours to 7 hours, making it easy for college students to study for extended periods of time without needing a charger.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Reliability: Throughout the past few years, I have had no problems with the MacBook Pro regarding the processing system or any design flaws.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "OS#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Durability: My computer has fallen from small heights and has had a few spills on it, but has had no lasting damage to the console with only a light plastic case on it.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Usability: The MacBook Pro is very easy to use and can be used by someone who doesn't necessarily have extensive knowledge on computers.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The processing system is already downloaded and the applications are very user friendly.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "SOFTWARE#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The MacBook Pro has a significant amount of positive attributes that greatly outweigh the negative attributes:",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Pros:  o It usually runs very smoothly, but Apple has an excellent support team that is always willing to help customers.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "o It has an extended battery life.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "o It is extremely user friendly.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Cons:  o Some people don't enjoy the way the processing system runs, but don't have any issues with getting it to function.",
+    "labels": [
+      {
+        "category": "OS#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "o Others have problems with the applications depending what they need to use the device for, for example engineering majors need extra applications &amp; systems to do some work, but they are easily downloadable.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "My first laptop ever and it is a flips into a tablet mode also, brilliant.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "So far so good.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Battery doesn't hold up to what it said in the description but I got it refurb'd and I imagine they swapped out the battery to help cover the costs on the reduced price (Just a guess).",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Still getting used to typing on it, my palms keep hitting the mousepad and causing the cursor to jump and moving me off of where I was typing.",
+    "labels": [
+      {
+        "category": "KEYBOARD#USABILITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Plenty of ports and since this is my first laptop, I really don't have anything to compare it to.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Note: no DVD drive, no Ethernet port",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Screen is too small to read and almost impossible to touch  with a normal adult finger.",
+    "labels": [
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "DISPLAY#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The brightest screen setting appeared dim in normal room light.",
+    "labels": [
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Keyboard is flimsy and mediocre at best.",
+    "labels": [
+      {
+        "category": "KEYBOARD#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The touch pad feel is a 4 on scale  1 - 10.",
+    "labels": [
+      {
+        "category": "MOUSE#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Computer seemed sluggish for an Intel Core i5 device.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Power on - good luck finding it.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I would run back to computer store and return this expensive toy.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "signed: not impressed",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I bought this a few months ago and it's holding up fairly well.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Runs fast, the touch screen hasn't lost any sensitivity, I'm overall very happy with it.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "This one doesn't do that.",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The trackpad is pretty crappy - but aren't they all?",
+    "labels": [
+      {
+        "category": "MOUSE#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This is my first Apple computer and I couldn't be more pleased.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "IOS does everything its billed to do and much, much more.",
+    "labels": [
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Literally every detail has been thought out and designed with the user in mind.",
+    "labels": [
+      {
+        "category": "OS#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I can't believe how much time it saves me through automatic processes.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The computer of the people!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I love this laptop.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "The batter lasts as long as claimed.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I get about 5 or so hours playing the sims.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I haven't really officially tested it yet, but it's a long time.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I hate plugging my laptop in because I don't want to leave it on too long and hurt the battery, but with this laptop I rarely have to charge it.",
+    "labels": [
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The touchscreen is responsive and even works with my crappy dollar stylus.",
+    "labels": [
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "DISPLAY#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The only problem I have is with windows 8.",
+    "labels": [
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I hate windows 8.",
+    "labels": [
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It made me sign up with Microsoft and sometimes won't let me download things that are harmful to my computer, but that's what anti virus software is for lol.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The wifi rumor hasn't happened to me.",
+    "labels": [
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The wifi works great.",
+    "labels": [
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "It feels very well built.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The metal is very expensive feeling.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The laptop is a little more than an inch thick when closed.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "I'm a very weak girl and I could lift this laptop with one hand, however I'd get tired soon lol.",
+    "labels": [
+      {
+        "category": "LAPTOP#PORTABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The 15.6&amp;#34; screen is not good for carrying around in your bare hands.",
+    "labels": [
+      {
+        "category": "LAPTOP#PORTABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I bought my first MacBook exactly 5 months ago and was really happy with my new toy, but what was not my surprise when I turned it on 2 days ago and the screen was completely black.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "depressed"
+      },
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I can hear the noise of the computer turning on and the lights also turn on but the screen in completely dead.",
+    "labels": [
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The best computer I've ever bought.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "The simple look of icons and format makes it easy to navigate through programs and download files.",
+    "labels": [
+      {
+        "category": "OS#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "The only issue I had was with the harddrive.",
+    "labels": [
+      {
+        "category": "HARD_DISC#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The harddrive crashed and I thought I had lost the whole computer.",
+    "labels": [
+      {
+        "category": "HARD_DISC#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Replacing the harddrive in this laptop is extremely easy, a couple screws on the back to remove the backplate and the harddrive is pretty much plug and play.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "And apple was happy to install the latest osx for free!",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "You wont be disappointed with this computer!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "It's just a matter of getting used to the touch-pad commands.",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Thankfully I have earphones and an external amplifier for audio; the onboard speakers are just terrible.",
+    "labels": [
+      {
+        "category": "MULTIMEDIA_DEVICES#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "But what should I expect from a unit that is this thin and this light?",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "The most disappointing purchase of my life!",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "depressed"
+      }
+    ]
+  },
+  {
+    "text": "I received a dud and have had nothing but problems since right after I purchased this horrible machine.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "angry"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Within the first few months that I bought it, there was clearly a problem with the hard drive.",
+    "labels": [
+      {
+        "category": "HARD_DISC#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The online customer service was awful.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "Gave me the runaround for an entire day and treated me like an imbecile.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "No one would ever answer my question as to why I couldn't get another new Macbook since this was clearly a factory error and my Macbook was still under warranty.",
+    "labels": [
+      {
+        "sentiment": "negative",
+        "category": "SUPPORT#QUALITY",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "As a matter of fact, no matter how many times I asked that question, the employees I spoke purposely ignored it.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "They didn't say yes and they didn't say no, they just pretended that I never asked it, which was incredibly frustrating.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I've been to the &amp;#34;genius&amp;#34; bar several times (they have been very nice).",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "They have now basically replaced everything inside my machine, told me there was a problem with the hardware, so I now have a &amp;#34;refurbished&amp;#34; machine.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "HARDWARE#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Maybe I'm not being reasonable, but I don't feel that's the same as a new computer because I didn't pay for a refurbished computer.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I still have weird freezing problems with it and it's pretty slow, but it's not pinpointed enough yet for me to take it in.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I had delusions of grandeur regarding Apple's &amp;#34;great customer service&amp;#34; and the &amp;#34;reliability of their machines&amp;#34; etc.. etc...blah...blah...",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I'm sure most people's Macbooks work just fine, but FYI, if you get the factory dud, you're stuck with it and no one at Apple cares or will give a hoot about the money you threw away.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "One OS for this platform, no OEM OS paraphernalia and automatic updates.",
+    "labels": [
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "OS#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I am happy with the feel the speed and the seamless transition to the MAC!",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Well she was right, Whatever in the world took me so long to get a computer that just works.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I'm no power user, but I have had no learning curve with the MAC and I don't do anything geeky enough forcing me to learn the OS.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I did buy Office 2008 for the MAC at a very low price to migrate most of my work files for $64 and that was  a steal in my opinion.",
+    "labels": [
+      {
+        "category": "SOFTWARE#PRICE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Otherwise I am happily a  Mac user.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "For a premium laptop sold in 2013, the Apple MacBook Pro (13 inch, base model) is about as basic as it gets: no SSD, no discrete graphics, no 1080p display, and no touch screen.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "GRAPHICS#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "DISPLAY#DESIGN_FEATURES",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "But Apple does not pretend it has any of these.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "What it does have is great reliability on the software side and hardware side, Apple's OSX Mountain Lion, the sleek looks Apple always delivers, reasonable specs, good battery life, nice keyboard, and excellent trackpad.",
+    "labels": [
+      {
+        "category": "SOFTWARE#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "HARDWARE#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "KEYBOARD#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MOUSE#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Those looking for a bargain laptop will shy away from the enormous price tag, and those who want to play the latest games do not ever use Macs.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The MacBook Pro 13.3 inch laptop is for those who want to use a Mac, but value performance and upgradability over weight and screen resolution.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This Mac will last longer than any other simply because it is the easiest to upgrade and repair.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Hard drives can be replaced, RAM can be added as needed, and the internal battery can be replaced after losing its ability to hold a charge.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "This, added with the fact that the speed of the hard drive is very slow for the money, detracts from the computer's value.",
+    "labels": [
+      {
+        "category": "HARD_DISC#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Lowering the price by one hundred dollars would justify the hard drive and screen and make the computer a five-star purchase, but for the price, this is a four star (good) computer.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "TLDR version: good, reliable laptop with mediocre screen and slow hard drive.",
+    "labels": [
+      {
+        "category": "HARD_DISC#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "DISPLAY#QUALITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I am really sorry I bought this machine.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "depressed"
+      }
+    ]
+  },
+  {
+    "text": "I was shocked at how much worse this product has been since my first purchase.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "This machine has made me go there 5 times and has been nothing but a continuous problem.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Finally, they are sending it in for a motherboard replacement.",
+    "labels": [
+      {
+        "category": "MOTHERBOARD#QUALITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "(It's a lemon).",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "So, I'm cooled on Mac buys.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "They did not replace the motherboard.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Instead they 'tightened' a loose wire.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It also has a big new scratch on the top cover.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I started it up and it still has the same problem I went in to fix.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "So I'm going back to Genius Bar for visit #6.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I think it may have to be 'Apple Don't Care' instead of Apple Care.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "You get what you pay for, right?",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Mac is complicated and frustrating at moments.",
+    "labels": [
+      {
+        "category": "OS#DESIGN_FEATURES",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I watched tutorials and that helped somewhat but not enough.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I should have known better.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I hope you don't make the same mistake...",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "When I first got the computer, I noticed the tracking pad was hard to click.",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I took my Macbook to the Apple store and they had to replace the battery after 1 month of use since it was swelling.",
+    "labels": [
+      {
+        "category": "BATTERY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "They tried to tell me that the battery wasn't covered by the warranty and it costs about $150 to replace.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "They ended up not charging me.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "Other than that battery issue and the battery life does not last too long, I'm pretty happy with the computer.",
+    "labels": [
+      {
+        "category": "BATTERY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "BATTERY#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      }
+    ]
+  },
+  {
+    "text": "I'm a designer turned front-end developer and this computer is unusable for front-end development.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Opening photoshop takes FOooooooRRREVER, as do all programs that do not begin with an 'i'.",
+    "labels": [
+      {
+        "category": "SOFTWARE#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The free upgrade to Mountain Lion FAILED.",
+    "labels": [
+      {
+        "category": "OS#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It tried to boot up and the screen just flashed over and over and over again.",
+    "labels": [
+      {
+        "category": "DISPLAY#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Before and after I resolved that issue, I saw the damn 'beachball' all the time as the computer tries to figure out what the hell it's doing while I wait for it.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I spend so much time waiting for it.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I can't believe people like these computers.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Now that they are not virus free ([...]l) I see absolutely no benefit to Apple products as they are slower, more expensive, and do not last as long.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "Don't waste your money.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "My HP seemed great at first, then the problems started.....wireless adapter would just &quot;disappear&quot; and the system said it didn't have a network card.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Sometimes it comes back, sometimes not.",
+    "labels": [
+      {
+        "category": "LAPTOP#CONNECTIVITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "HP was NO help.",
+    "labels": [
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The lettering wore off the keys, so you better be able to type blind.",
+    "labels": [
+      {
+        "category": "KEYBOARD#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "KEYBOARD#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The battery lasted 12 months, then pffft.....gone.",
+    "labels": [
+      {
+        "category": "BATTERY#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "When I had a boot up issue, the HP recovery didn't work.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "The disks I made wouldn't work.....HP support stated &quot;we're a hardware company, not a software company.&quot;",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "SUPPORT#QUALITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "Then there was a power cord recall....HP never notified us.....and we did register......never again.",
+    "labels": [
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I don't have the inclination or time to devote to a companies tech support, search functions, or hold times.....dropped the HP and never looked back.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "negative",
+        "emotion": "angry"
+      }
+    ]
+  },
+  {
+    "text": "I gave this product 5 stars because I have been looking for a MacBook Pro for a long time and I found it here for a wonderful price.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I have used this product for only 2 days, but I can't wait to use it more.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I really like Mac/Apple products because of their operating system.",
+    "labels": [
+      {
+        "category": "OS#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      },
+      {
+        "category": "COMPANY#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "I can tweet and use Facebook from the sidebar which is really nice.",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I also like I have the option to push calendars, photos, and contacts to an iPad, iPod Touch, or iPhone (if I had any of those).",
+    "labels": [
+      {
+        "category": "OS#USABILITY",
+        "sentiment": "positive",
+        "emotion": "del"
+      }
+    ]
+  },
+  {
+    "text": "The only thing I have had trouble with so far is transferring music to iTunes which I would have liked to do though &amp;#34;Home Sharing&amp;#34; (I used iTunes on a computer separate from my Linux computer) but I could not figure that out.",
+    "labels": [
+      {
+        "category": "SOFTWARE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I just ended up using my iPod to transfer my iTunes music and I re-downloaded my Amazon music (losing my ratings).",
+    "labels": [
+      {
+        "category": "SOFTWARE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I have not tried gaming on it but I have heard that Mac/Apple does not do games well.",
+    "labels": [
+      {
+        "category": "LAPTOP#MISCELLANEOUS",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I plan on using my MacBook Pro for a long time.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "When I decided to buy my first computer, I wish I had bought a Mac first.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "If the price doesn't deter you, you'll find it well worth it in terms of trouble-free operation.",
+    "labels": [
+      {
+        "category": "LAPTOP#PRICE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "I've had it for more than a year, and I've found that no anti-virus software is needed, as long as you don't download anything without being 100% sure that it's from a legitimate source.",
+    "labels": [
+      {
+        "category": "LAPTOP#QUALITY",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "From time to time I get the 'spinning beach ball' that holds up progress.",
+    "labels": [
+      {
+        "category": "LAPTOP#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I can almost always fix that quickly by clicking on the 'Show all bookmarks' icon (the open book icon at the upper left).",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "positive",
+        "emotion": "content"
+      }
+    ]
+  },
+  {
+    "text": "Once in a long while that doesn't work; in that case I turn the computer off, then on again, and sign in -- problem solved.",
+    "labels": [
+      {
+        "category": "LAPTOP#USABILITY",
+        "sentiment": "neutral",
+        "emotion": "neutral"
+      }
+    ]
+  },
+  {
+    "text": "I'll leave the more technical aspects to those more knowledgeable than myself, and just conclude by saying that I'm delighted with my purchase.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "delighted"
+      }
+    ]
+  },
+  {
+    "text": "Received this item and everything is great except that my touchpad is reversed.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "content"
+      },
+      {
+        "category": "MOUSE#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "To go left I have to go right and vice versa and to go up I have to go down.",
+    "labels": [
+      {
+        "category": "MOUSE#OPERATION_PERFORMANCE",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      },
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "When I attach a mouse it's fine but the touchpad is really annoying.",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "I went through the settings and there isn't a way to fix it.",
+    "labels": [
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  },
+  {
+    "text": "It's a great laptop, but right now it's annoying to use the touchpad.",
+    "labels": [
+      {
+        "category": "LAPTOP#GENERAL",
+        "sentiment": "positive",
+        "emotion": "happy"
+      },
+      {
+        "category": "MOUSE#USABILITY",
+        "sentiment": "negative",
+        "emotion": "frustrated"
+      }
+    ]
+  }
+]
